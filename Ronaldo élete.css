@@ -16,3 +16,20 @@ body {
     height: 100;
     text-align: center;
 }
+
+.Sporting-Logo {
+    list-style-image: url(kepek/sporting\ sorolás\ 1.jpg);
+    size: 1px;
+}
+.FocilabdaJel{
+    list-style-type: none;
+    padding-left: 0;
+}
+.FocilabdaJel li {
+    background-image: url(kepek/Sporting_CP.webp);
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin-bottom: 5px;
+    padding-left: 30px;
+}

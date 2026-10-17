@@ -16,6 +16,9 @@ body {
     height: 100;
     text-align: center;
 }
+.ronaldo-sporting{
+    padding-right: 270px;
+}
 
 .Sporting-Logo {
     list-style-image: url(kepek/sporting\ sorolás\ 1.jpg);
@@ -32,4 +35,26 @@ body {
     background-position: left center;
     margin-bottom: 5px;
     padding-left: 30px;
+}
+table {
+    border-collapse: collapse;
+}
+tbody td {
+    border-color: rgb(161, 224, 34);
+    border-style: solid;
+    border-width: 2px;
+}
+thead th {
+border: 2px dotted white
+}
+.tizmeccs{
+    margin: auto 300px auto 300px;
+    padding-bottom: 30px;
+}
+.tizmeccs2{
+    text-align: center;
+ background-image: url(kepek/sporting\ háttér\ 2.png)
+}
+.szereny-kezdet{
+    background-color: aliceblue;
 }

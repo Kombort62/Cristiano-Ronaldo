@@ -17,7 +17,8 @@ body {
     text-align: center;
 }
 .ronaldo-sporting{
-    padding-right: 270px;
+    margin-left: 200px;
+    padding-right: 800px;
 }
 
 .Sporting-Logo {
@@ -53,7 +54,7 @@ border: 2px dotted white
 }
 .tizmeccs2{
     text-align: center;
- background-image: url(kepek/sporting\ háttér\ 2.png)
+    background-color: rgb(137, 194, 73);
 }
 .szereny-kezdet{
     background-color: aliceblue;

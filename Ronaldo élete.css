@@ -17,8 +17,7 @@ body {
     text-align: center;
 }
 .ronaldo-sporting{
-    margin-left: 200px;
-    padding-right: 800px;
+
 }
 
 .Sporting-Logo {
@@ -48,14 +47,48 @@ tbody td {
 thead th {
 border: 2px dotted white
 }
-.tizmeccs{
-    margin: auto 300px auto 300px;
-    padding-bottom: 30px;
+.tizmeccs, td, th {
+
+    width: 400px;
+    margin-bottom: 30px;
+    padding: 15px 20px ;
+    clear: both;
+    background-color: rgb(137, 194, 73);
 }
 .tizmeccs2{
-    text-align: center;
+    text-align: justify;
     background-color: rgb(137, 194, 73);
+}
+.sporting-szoveg {
+    text-align: left;
+    margin: 0 0 15px 0;
+
 }
 .szereny-kezdet{
     background-color: aliceblue;
 }
+.jobbra {
+    float: right;
+}
+.madeira {
+    text-align: justify;
+    width: 650px;
+    margin-bottom: 200px;
+}
+.fo-tarolo {
+    display: flex; 
+    gap: 40px;                 /* Távolság a táblázat és a jobb oldali rész között */
+    align-items: flex-start;   /* A tetejüknél fogva hozza őket egyszintbe */
+    background-color: rgb(137, 194, 73); /* Ha a zöld hátteret a kereten adod meg */
+    padding: 20px;
+    }
+    .bal-oldal {
+
+    }
+    .jobb-oldal {
+        
+    }
+    .jobb-oldal img {
+        max-width: 100px;
+        height: auto;
+    }
